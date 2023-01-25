@@ -1,0 +1,11 @@
+account password deviceId
+account password deviceId
+account password
+account password deviceId
+account password
+account password deviceId
+account password
+account password deviceId
+account password
+...
+(можно девайс айди не указывать)
